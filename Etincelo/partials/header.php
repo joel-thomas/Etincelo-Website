@@ -24,16 +24,10 @@
 <link href='http://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Jockey+One' rel='stylesheet' type='text/css'>
 
-<!-- Script -->
-
-
-
 </head>
 
 <body>
-<?php
-	require_once("lib/main.class.php");
-	$etincelo = new etincelo_main();
+<?php require_once("lib/main.class.php"); $etincelo = new etincelo_main();
 ?>
 <script type="text/javascript">
   $(document).ready(function() {
@@ -42,6 +36,7 @@
 </script>
 
 <!-- Navigation -->
+
 <?php $hote = $_SERVER['HTTP_HOST']; ?>
 
 <section>

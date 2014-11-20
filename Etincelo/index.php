@@ -2,6 +2,8 @@
 
 <div class="all">
 
+<!-- Les slides -->
+
 <section>
   <div id="home"></div>
   <div class="carousel">
@@ -14,8 +16,6 @@
       </span>
     </div>
 
-  <!-- Les slides -->
-
       <span class="carousel_slide" id="background1">
         <div class="header_msg">New Single dispo !!</div>
         <a class="header_button" href="#">Voir</a>
@@ -27,7 +27,7 @@
     </div>
 </section>
 
-<!-- Newsletter -->
+<!-- La Newsletter -->
 
 <section>
   <div id="newsletter">
@@ -65,7 +65,8 @@
 </div>
 </section>
 
-<!-- News -->
+<!-- Les News -->
+
 <div class="news_modal_all">
   <div class="window_news_modal">
     <div class="news_close_cross"></div>
@@ -107,53 +108,39 @@
 <!-- 1er Fixed -->
 
 <section>
-
   <div id="paralax_first">
     <div class="container">
-
       <div class="row">
       </div>
-
     </div>
   </div>
-
 </section>
 
 <!-- Musique -->
 
 <section>
-
   <div id="music"></div>
     <div id="music_section">
       <div class="container">
-
       <div class="row">
-
         <div class="lead text-center" id="title_section">TON AMOUR POUR MOI</div>
-
         <div id="content_all_music">
-
           <div class="col-lg-4 col-sm-4 text_descr_music">
             <p>Ton Amour pour moi est le titre éponyme du premier disque d’Etincelo. Le chant du même nom a été composé pour le rassemblement des familles d’Assise en août 2013 et qui avait pour thème « Qui nous séparera de l’Amour de Dieu ? ».</p>
             <p>L’intégralité des chants ont été composés par Hubert (chanteur), arrangés et interprétés par ETINCELO, et ont été enregistrés au studio Métronome à Beaupréau, proche de Cholet.</p></div>
 
           <div class="col-lg-4 col-sm-4">
-
             <div id="album_picture"></div>
           </div>
 
           <div class="col-lg-4 col-sm-4">
-
             <div id="list_music" class="pull-left">
-
               <p>1. Intro'celo &nbsp;&nbsp;<a href="#" title="télécharger la partion"><i class="fa fa-youtube-play fa-lg link_youtube_tapm pull-right" ></i></a><hr id="hr_list"></p>
               <p>2. Les amis de Dieu &nbsp;&nbsp;<a href="#" title="télécharger la partion"><i class="fa fa-youtube-play fa-lg link_youtube_tapm  pull-right"></i></a><hr id="hr_list"></p>
               <p>3. Ton Amour pour moi &nbsp;&nbsp;<a href="#" title="télécharger la partion"><i class="fa fa-youtube-play fa-lg link_youtube_tapm  pull-right"></i></a><hr id="hr_list"></p>
               <p>4. Sachons aimer &nbsp;&nbsp;<a href="#" title="télécharger la partion"><i class="fa fa-youtube-play fa-lg link_youtube_tapm  pull-right"></i></a><hr id="hr_list"></p>
               <p>5. Bienheureuse Marie &nbsp;&nbsp;<a href="#" title="télécharger la partion"><i class="fa fa-youtube-play fa-lg link_youtube_tapm  pull-right"></i></a></p>
-
             </div>
-
           </div>
         </div>
       </div>
@@ -177,17 +164,12 @@
   <div id="music_section2">
     <div class="container">
       <div class="row">
-
         <div class="lead text-center" id="title_section">CD BONUS ET AUTRE</div>
-
         <div class="col-lg-6 col-sm-6">
-
           <div id="cdbonus"></div>
         </div>
 
         <div class="col-lg-6 col-sm-6">
-
-
           <div id="content_cdbonus">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             Fusce et purus ut est interdum cursus id sed libero. Donec et metus orci.
@@ -231,16 +213,13 @@
   <div id="paralax_seconde">
     <div class="container">
       <div class="row">
-
         <div class="col-lg-1"></div>
-
         <div class="col-lg-10 text-center">
           <h1 class="text-center" id="h1_quote_luc">
           <i class="fa fa-quote-left fa-lg text-center"></i>&nbsp;&nbsp;Je suis venu apporter un feu sur la terre, et comme je voudrais qu'il soit déjà allumé.&nbsp;&nbsp;<i class="fa fa-quote-right fa-lg text-center"></i></h1>
         </div>
         <div class="col-lg-1"></div>
       </div>
-
       <div class="row">
         <div class="col-lg-12 text-center">
           <div id="button_cite"><p> - Luc 12, 49</p></div>
@@ -303,21 +282,18 @@
       </div>
     </div>
 </section>
+
 <!-- 3eme Fixed -->
+
 <section>
 
   <div id="paralax_troisieme">
     <div class="container">
       <div class="row">
-
         <div class="col-lg-1"></div>
-
-        <div class="col-lg-10 text-center">
-
-        </div>
+        <div class="col-lg-10 text-center"></div>
         <div class="col-lg-1"></div>
       </div>
-
     </div>
   </div>
 
@@ -326,21 +302,19 @@
 <!-- A propos -->
 
 <section class="presentation-first">
-<div id="about"></div>
-<div class="container">
-  <div class="row">
-    <div class="lead text-center" id="title_section">ETINCELO ?!</div>
-    <div class="col-lg-12 text-center">
-      <p>ETINCELO est un groupe de pop louange franciscaine, rassemblant des musiciens qui chantent, jouent et dansent pour Dieu, à la suite de saint François d’Assise.<br>
-      Ce groupe a pour origine l’équipe de musiciens au service de la louange du couvent saint François de Cholet depuis 2005.<br>En août 2013, à la demande de plusieurs familles
-      désireuses d’évangéliser par la musique, ils décident d’enregistrer un premier disque de louange sous le nom ETINCELO, nom tiré du latin, prononcé à l’italienne et qui
-      évoque les étincelles.</p>
+  <div id="about"></div>
+  <div class="container">
+    <div class="row">
+      <div class="lead text-center" id="title_section">ETINCELO ?!</div>
+      <div class="col-lg-12 text-center">
+        <p>ETINCELO est un groupe de pop louange franciscaine, rassemblant des musiciens qui chantent, jouent et dansent pour Dieu, à la suite de saint François d’Assise.<br>
+        Ce groupe a pour origine l’équipe de musiciens au service de la louange du couvent saint François de Cholet depuis 2005.<br>En août 2013, à la demande de plusieurs familles
+        désireuses d’évangéliser par la musique, ils décident d’enregistrer un premier disque de louange sous le nom ETINCELO, nom tiré du latin, prononcé à l’italienne et qui
+        évoque les étincelles.</p>
+      </div>
     </div>
   </div>
-</div>
 </section>
-
-<!-- A propos musicien -->
 
 <section class="musicien">
 <div class="container">
@@ -482,7 +456,7 @@
 
 </section>
 
-<!-- Boutique -->
+<!-- La Boutique -->
 
 <div id="shop"></div>
 <div class="boutique_info_modal">
@@ -519,8 +493,6 @@ Votre chèque correspondant à la commande, à l'ordre de Répare mon Église et
     <span class="boutique_icon_info"></span>
 
     </div>
-
-    <!-- Boutique -->
 
     <div class="col-lg-3 col-sm-3">
       <div class="boutique_block">

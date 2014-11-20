@@ -29,7 +29,6 @@
     </span>
     <span class="picture_existe_span">Ici, la liste de toute les photo déja on-line</span>
 
-
     <?php
 
     $fetch_select_picture = $etinadmin->select_picture();
